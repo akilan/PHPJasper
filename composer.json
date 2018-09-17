@@ -1,0 +1,10 @@
+{
+    "autoload": {
+      "psr-4": {
+        "App\\":"app/"
+      }
+    },
+    "require": {
+        "geekcom/phpjasper": "^2.7"
+    }
+}
